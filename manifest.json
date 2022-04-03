@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Chome Save Url Extension",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "pic/url.png"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
+  
