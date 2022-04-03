@@ -1,5 +1,5 @@
 # Project-2-Chrome-Save-Url-Extension
-Go to chrome://extensions/
+Go to chrome://extensions/ ...
 Activate Developer mode (on the top right)
 Hit load unpacked
 Select Project-2-Chrome-Save-Url-Extension folder
